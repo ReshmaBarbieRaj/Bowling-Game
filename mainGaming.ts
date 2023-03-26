@@ -1,4 +1,3 @@
-//last condition cover
 import { ScoreLogic } from "./bowling";
 
 export class BowlingGame {
